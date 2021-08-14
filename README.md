@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Kedar-Khedkar/Language-Translator-?style=for-the-badge">
 
 # Temperature-Converter
 Hey Guys, Prathmesh Ghate Here, I am a Data Science and Python enthusiast.In this project I've made a Temperature Converter. <br> 
